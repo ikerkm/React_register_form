@@ -1,0 +1,10 @@
+.the_former {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.register_div {
+    max-width: 400px;
+}
